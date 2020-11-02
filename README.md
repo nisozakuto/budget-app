@@ -1,3 +1,24 @@
+# Budget App 
+*built with React*
+
+
+
+Inspiration from [link](https://dev.to/slawomirkolodziej/5-javascript-projects-you-should-build-as-junior-frontend-developer-4gm3?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
+
+
+### Requirements:
+- adding a category
+- adding expense with name, amount and category
+- sum up of monthly spendings split into categories
+- saving data to an external database (ex. Firebase)
+### Nice to haves:
+- sign up, log in, and handling multiple users
+
+
+
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
